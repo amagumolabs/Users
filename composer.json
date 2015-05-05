@@ -1,0 +1,20 @@
+{
+    "name": "amagumolabs/users",
+    "description": "",
+    "authors": [
+        {
+            "name": "Lam",
+            "email": "l.nguyenvan1986@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Amagumolabs\\Modules\\Users\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
