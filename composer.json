@@ -15,7 +15,5 @@
         "psr-4": {
             "Amagumolabs\\Modules\\Users\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": false
+    }
 }
