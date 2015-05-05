@@ -1,5 +1,6 @@
 {
     "name": "amagumolabs/users",
+	"version": "1.0",
     "description": "",
     "authors": [
         {
@@ -16,5 +17,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": false
 }
