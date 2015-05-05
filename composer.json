@@ -1,7 +1,8 @@
 {
     "name": "amagumolabs/users",
     "description": "",
-	"minimum-stability": "dev",
+    "minimum-stability": "dev",
+    "version":"1.0",
     "authors": [
         {
             "name": "Lam",
